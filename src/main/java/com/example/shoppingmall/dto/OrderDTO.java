@@ -25,5 +25,7 @@ public class OrderDTO {
 
     private Integer status;
 
+    private String statusText;
+
     private LocalDateTime createdAt;
 }
